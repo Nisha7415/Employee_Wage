@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\employeeWage\UC_7\bin\Debug\netcoreapp3.1\UC_7.exe
+C:\Users\hp\source\repos\employeeWage\UC_7\bin\Debug\netcoreapp3.1\UC_7.deps.json
+C:\Users\hp\source\repos\employeeWage\UC_7\bin\Debug\netcoreapp3.1\UC_7.runtimeconfig.json
+C:\Users\hp\source\repos\employeeWage\UC_7\bin\Debug\netcoreapp3.1\UC_7.runtimeconfig.dev.json
+C:\Users\hp\source\repos\employeeWage\UC_7\bin\Debug\netcoreapp3.1\UC_7.dll
+C:\Users\hp\source\repos\employeeWage\UC_7\bin\Debug\netcoreapp3.1\UC_7.pdb
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.AssemblyInfo.cs
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.dll
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.pdb
+C:\Users\hp\source\repos\employeeWage\UC_7\obj\Debug\netcoreapp3.1\UC_7.genruntimeconfig.cache
