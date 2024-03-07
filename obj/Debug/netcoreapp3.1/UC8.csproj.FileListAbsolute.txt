@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\employeeWage\UC8\bin\Debug\netcoreapp3.1\UC8.exe
+C:\Users\hp\source\repos\employeeWage\UC8\bin\Debug\netcoreapp3.1\UC8.deps.json
+C:\Users\hp\source\repos\employeeWage\UC8\bin\Debug\netcoreapp3.1\UC8.runtimeconfig.json
+C:\Users\hp\source\repos\employeeWage\UC8\bin\Debug\netcoreapp3.1\UC8.runtimeconfig.dev.json
+C:\Users\hp\source\repos\employeeWage\UC8\bin\Debug\netcoreapp3.1\UC8.dll
+C:\Users\hp\source\repos\employeeWage\UC8\bin\Debug\netcoreapp3.1\UC8.pdb
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.AssemblyInfo.cs
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.dll
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.pdb
+C:\Users\hp\source\repos\employeeWage\UC8\obj\Debug\netcoreapp3.1\UC8.genruntimeconfig.cache
