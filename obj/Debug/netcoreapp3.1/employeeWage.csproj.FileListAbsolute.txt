@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\employeeWage\employeeWage\bin\Debug\netcoreapp3.1\employeeWage.exe
+C:\Users\hp\source\repos\employeeWage\employeeWage\bin\Debug\netcoreapp3.1\employeeWage.deps.json
+C:\Users\hp\source\repos\employeeWage\employeeWage\bin\Debug\netcoreapp3.1\employeeWage.runtimeconfig.json
+C:\Users\hp\source\repos\employeeWage\employeeWage\bin\Debug\netcoreapp3.1\employeeWage.runtimeconfig.dev.json
+C:\Users\hp\source\repos\employeeWage\employeeWage\bin\Debug\netcoreapp3.1\employeeWage.dll
+C:\Users\hp\source\repos\employeeWage\employeeWage\bin\Debug\netcoreapp3.1\employeeWage.pdb
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.AssemblyInfo.cs
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.dll
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.pdb
+C:\Users\hp\source\repos\employeeWage\employeeWage\obj\Debug\netcoreapp3.1\employeeWage.genruntimeconfig.cache
